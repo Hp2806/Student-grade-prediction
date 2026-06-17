@@ -1,9 +1,9 @@
-Student Grade Prediction using Linear Regression
-A machine learning project that predicts students' final grades using academic, social, and demographic factors from the UCI Student Performance dataset.
+## Student Grade Prediction using Linear Regression
 
-The program analyzes student data, visualizes grade and age distributions, and trains a Linear Regression model to predict final grades (G3) based on 32 different student attributes.
+A machine learning project that predicts student's final grades using academic, social, and demographic factors from the UCI Student Performance dataset. The program analyzes student data, visualizes grade and age distributions, and trains a Linear Regression model to predict final grades (G3) based on 32 different student attributes.
 
-Features
+
+## Features
 
 * Final grade prediction using Linear Regression
 * Exploratory data analysis with histograms, bar charts, and KDE plots
@@ -11,7 +11,8 @@ Features
 * Train-test split for model evaluation
 * Performance evaluation using MSE and R² Score
 
-Technologies Used
+
+## Technologies Used
 
 * Python
 * Pandas
@@ -19,8 +20,11 @@ Technologies Used
 * Matplotlib
 * Seaborn
 * Scikit-learn
+  
 
-Installation
+## Installation
+
+
 Clone the repository:
 
 ```
