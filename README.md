@@ -28,5 +28,5 @@ A machine learning project that predicts student's final grades using academic, 
 Clone the repository:
 
 ```
-git clone https://github.com/Hp2806/Image-Processing.git
+git clone https://github.com/Hp2806/Student-grade-prediction.git
 ```
